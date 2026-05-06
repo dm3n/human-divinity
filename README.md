@@ -1,16 +1,20 @@
-# The Sacred Secretion Series
+# Human Divinity
 
 **Daniel Ray Edgar — 2026**
 
 A three-paper series establishing the complete case for human divinity: the proof, the mathematical architecture, and the practical protocol.
 
+**Foundation thesis:** Hermeticism gives the symbolic grammar for the sacred secretion. Alchemy gives the transformation process. Christianity gives the Christ narrative. Jung gives the psychological interpretation. The body practice becomes the ritual laboratory.
+
+The sacred secretion is the mechanism. **Human Divinity** is the thesis.
+
 ---
 
 | Publication | Title | PDF |
 |-------------|-------|-----|
-| **I** | The Sacred Secretion — *The Proof* | [Read PDF](https://github.com/dm3n/sacred-secretion/blob/main/main.pdf) |
-| **II** | The Cipher of Numbers — *The Mathematics* | [Read PDF](https://github.com/dm3n/sacred-secretion/blob/main/numerology.pdf) |
-| **III** | The Map — *The Protocol* | [Read PDF](https://github.com/dm3n/sacred-secretion/blob/main/map.pdf) + [Agent](https://sacred-secretion-agent-2zug.vercel.app/)|
+| **I** | The Sacred Secretion — *The Proof* | [Read PDF](https://github.com/dm3n/human-divinity/blob/main/Publication%20I.pdf) |
+| **II** | The Cipher of Numbers — *The Mathematics* | [Read PDF](https://github.com/dm3n/human-divinity/blob/main/Publication%20II.pdf) |
+| **III** | The Map — *The Protocol* | [Read PDF](https://github.com/dm3n/human-divinity/blob/main/Publication%20III.pdf) + [Agent](https://sacred-secretion-agent-2zug.vercel.app/) |
 
 ---
 
@@ -22,8 +26,8 @@ A three-paper series establishing the complete case for human divinity: the proo
 
 ### Read
 
-- **[Read the PDF on GitHub](https://github.com/dm3n/sacred-secretion/blob/main/main.pdf)**
-- **[LaTeX source](https://github.com/dm3n/sacred-secretion/blob/main/main.tex)**
+- **[Read the PDF on GitHub](https://github.com/dm3n/human-divinity/blob/main/Publication%20I.pdf)**
+- **[LaTeX source](https://github.com/dm3n/human-divinity/blob/main/.project/latex/main.tex)**
 
 ---
 
@@ -138,6 +142,10 @@ The ladder is the spine. Heaven is the pineal. The dream is the instruction.
 
 The Hermetic First Principle: *"The All is Mind; the Universe is Mental."*
 
+Hermeticism is the symbolic grammar of this series. It teaches the human being as microcosm: the body as a small cosmos, the cosmos as an expanded body, and the spine as the inner world axis. Alchemy gives the transformation process: the lower substance is purified in the vessel until it reveals the hidden gold. Christianity gives that process its narrative: birth, descent, Gethsemane, crucifixion, tomb, resurrection, and ascent. Jung gives the psychological interpretation: alchemy as the drama of psychic integration, the union of opposites, and the emergence of the Self. The body practice turns all of this from symbol into experiment. The practitioner becomes the laboratory.
+
+This is the clarity behind the series title **Human Divinity**. The sacred secretion is the oil. Hermeticism explains why the oil mirrors the cosmos. Alchemy explains how the oil is refined. Christianity explains why its ascent is called resurrection. Jung explains what resurrection means inside the psyche.
+
 If consciousness is the ground of reality — not a product of matter but the substance from which matter arises — then the human brain, operating at its highest register, is not a receiver of the universe. It is a **generator** of it.
 
 Penrose and Hameroff proposed in peer-reviewed work that consciousness arises from quantum processes within neurons — and that the pineal gland, with its crystalline microstructures and its DMT-rich neurochemical environment, may be a privileged site for these quantum events *(Hameroff & Penrose, 1996, 2014)*. If correct, an activated pineal is not producing a subjective experience of unity. It is an organ interacting with the generative layer of reality itself — the level at which possibility collapses into actuality.
@@ -221,14 +229,14 @@ We are not waiting for God. We are God, waiting for ourselves to realize it.
 
 ### Read
 
-- **[Read the PDF on GitHub](https://github.com/dm3n/sacred-secretion/blob/main/numerology.pdf)**
-- **[LaTeX source](https://github.com/dm3n/sacred-secretion/blob/main/numerology.tex)**
+- **[Read the PDF on GitHub](https://github.com/dm3n/human-divinity/blob/main/Publication%20II.pdf)**
+- **[LaTeX source](https://github.com/dm3n/human-divinity/blob/main/.project/latex/numerology.tex)**
 
 ---
 
 ## Abstract
 
-*The Sacred Secretion* demonstrated through five convergent streams of evidence that the world's initiatic traditions encode a single physiological and metaphysical process. This paper adds a sixth stream: **mathematical**. Numerology — specifically the Pythagorean number-philosophy, Kabbalistic gematria, and the universal recurrence of specific integers across anatomy, scripture, and esoteric tradition — constitutes a structural proof that the cipher is not cultural coincidence but mathematical necessity.
+*Human Divinity, Publication I* demonstrated through five convergent streams of evidence that the world's initiatic traditions encode a single physiological and metaphysical process. Hermeticism gives the symbolic grammar, alchemy gives the transformation process, Christianity gives the Christ narrative, Jung gives the psychological interpretation, and the body practice becomes the ritual laboratory. This paper adds a sixth stream: **mathematical**. Numerology — specifically the Pythagorean number-philosophy, Kabbalistic gematria, and the universal recurrence of specific integers across anatomy, scripture, and esoteric tradition — constitutes a structural proof that the cipher is not cultural coincidence but mathematical necessity.
 
 The numbers 3, 7, 12, 13, 33, and 40, together with the master number triad (11, 22, 33), the Golden Ratio (φ), and the Fibonacci sequence, form a coherent mathematical lattice that underlies every system examined in Publication I. The convergence of identical integers across independent systems separated by millennia is not coincidental. It demands a structural explanation: these numbers are not imposed on reality by human culture — they are *discovered* from it, because they are the mathematical signature of the universe's own self-organising architecture.
 
@@ -445,14 +453,16 @@ When that alignment is complete, when the secretion arrives at the pineal and th
 
 ### Read
 
-- **[Read the PDF on GitHub](https://github.com/dm3n/sacred-secretion/blob/main/map.pdf)**
-- **[LaTeX source](https://github.com/dm3n/sacred-secretion/blob/main/map.tex)**
+- **[Read the PDF on GitHub](https://github.com/dm3n/human-divinity/blob/main/Publication%20III.pdf)**
+- **[LaTeX source](https://github.com/dm3n/human-divinity/blob/main/.project/latex/map.tex)**
 
 ---
 
 ## Abstract
 
 Publications I and II established the proof and the mathematical architecture. This paper is the protocol. Drawing on the same convergent traditions — now read as practical instruction — it presents a structured, sequential manual for any human being who wishes to preserve, cultivate, and complete the ascent of the sacred secretion, and through that completion, to realise in direct experience the truth that the Kingdom of God is within.
+
+This is where the foundation becomes embodied: Hermeticism teaches the practitioner to read the body as microcosm; alchemy teaches refinement of the vessel; Christianity supplies the descent-and-resurrection pattern; Jung frames the psychic integration; and the daily discipline makes the body the ritual laboratory.
 
 ---
 
@@ -593,7 +603,7 @@ The code was always cracked. The instruction was always in the text. The temple 
 
 Publication III is not only a protocol to follow manually — it is deployed as a live web application.
 
-**[PERSONAL SACRED SECRETION AGENT (CLICK HERE) ](https://sacred-secretion-agent-2zug.vercel.app)**
+**[HUMAN DIVINITY PRACTICE AGENT](https://sacred-secretion-agent-2zug.vercel.app)**
 
 Sign up with your name, email, and natal sun sign. The agent tracks the lunar cycle and sends you the right guidance at every phase of the monthly process — automatically, every month, for as long as you practice.
 
@@ -604,14 +614,13 @@ Sign up with your name, email, and natal sun sign. The agent tracks the lunar cy
 ```bash
 export PATH="/Library/TeX/texbin:$PATH"
 
-# Publication I
-pdflatex main.tex && biber main && pdflatex main.tex && pdflatex main.tex
+cd .project/latex
+make all
 
-# Publication II
-pdflatex numerology.tex && biber numerology && pdflatex numerology.tex && pdflatex numerology.tex
-
-# Publication III
-pdflatex map.tex && biber map && pdflatex map.tex && pdflatex map.tex
+# Copy the generated papers to the repository root publication names
+cp main.pdf ../../"Publication I.pdf"
+cp numerology.pdf ../../"Publication II.pdf"
+cp map.pdf ../../"Publication III.pdf"
 ```
 
 Requires: `pdflatex`, `biber` (included in MacTeX / TeX Live)
